@@ -54,5 +54,5 @@ A scalable REST API with authentication, role-based access control, and a React 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/task-manager-app.git
+git clone https://github.com/IzzaMustafa/task-manager-app.git
 cd task-manager-app
